@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Admin",
+    "description": "Heeft volledige toegang tot het systeem",
+    "canEdit": true,
+    "canDelete": true,
+    "iconUrl": "https://example.com/images/admin.png"
+  },
+  {
+    "id": 2,
+    "name": "Editor",
+    "description": "Kan content aanpassen maar niet verwijderen",
+    "canEdit": true,
+    "canDelete": false,
+    "iconUrl": "https://example.com/images/editor.png"
+  },
+  {
+    "id": 3,
+    "name": "User",
+    "description": "Standaard gebruiker met leesrechten",
+    "canEdit": false,
+    "canDelete": false,
+    "iconUrl": "https://example.com/images/user.png"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "id": 101,
+    "name": "Jan Peeters",
+    "description": "Frontend developer met een passie voor UX en toegankelijke interfaces.",
+    "age": 28,
+    "isActive": true,
+    "birthDate": "1996-03-14",
+    "profileImage": "./images/Jan Peeters.png",
+    "status": "active",
+    "hobbies": ["coding", "fotografie", "reizen"],
+    "role": {
+      "id": 1,
+      "name": "Admin",
+      "canEdit": true,
+      "canDelete": true
+    }
+  },
+  {
+    "id": 102,
+    "name": "Sara Jacobs",
+    "description": "Backend developer gespecialiseerd in Node.js en databases.",
+    "age": 32,
+    "isActive": true,
+    "birthDate": "1992-07-22",
+    "profileImage": "./images/Sara Jacobs.png",
+    "status": "active",
+    "hobbies": ["lezen", "yoga"],
+    "role": {
+      "id": 2,
+      "name": "Editor",
+      "canEdit": true,
+      "canDelete": false
+    }
+  },
+  {
+    "id": 103,
+    "name": "Tom Vermeulen",
+    "description": "Student informatica met interesse in webontwikkeling.",
+    "age": 21,
+    "isActive": false,
+    "birthDate": "2003-01-09",
+    "profileImage": "./images/Tom Vermeulen",
+    "status": "inactive",
+    "hobbies": ["gaming", "streaming"],
+    "role": {
+      "id": 3,
+      "name": "User",
+      "canEdit": false,
+      "canDelete": false
+    }
+  },
+  {
+    "id": 104,
+    "name": "Lotte Maes",
+    "description": "UI designer met oog voor detail en branding.",
+    "age": 26,
+    "isActive": true,
+    "birthDate": "1998-11-30",
+    "profileImage": "./images/Lotte Maes",
+    "status": "active",
+    "hobbies": ["design", "illustratie"],
+    "role": {
+      "id": 2,
+      "name": "Editor",
+      "canEdit": true,
+      "canDelete": false
+    }
+  },
+  {
+    "id": 105,
+    "name": "Kevin De Smet",
+    "description": "Fullstack developer met ervaring in React en Express.",
+    "age": 35,
+    "isActive": true,
+    "birthDate": "1989-05-18",
+    "profileImage": "./images/Kevin De Smet.png",
+    "status": "active",
+    "hobbies": ["hardlopen", "koken"],
+    "role": {
+      "id": 1,
+      "name": "Admin",
+      "canEdit": true,
+      "canDelete": true
+    }
+  },
+  {
+    "id": 106,
+    "name": "Emma Willems",
+    "description": "Content creator en copywriter.",
+    "age": 29,
+    "isActive": false,
+    "birthDate": "1995-09-02",
+    "profileImage": "./images/Emma Willems.png",
+    "status": "blocked",
+    "hobbies": ["schrijven", "bloggen"],
+    "role": {
+      "id": 3,
+      "name": "User",
+      "canEdit": false,
+      "canDelete": false
+    }
+  },
+  {
+    "id": 107,
+    "name": "Bram Janssens",
+    "description": "DevOps engineer met focus op cloud infrastructuur.",
+    "age": 38,
+    "isActive": true,
+    "birthDate": "1986-12-11",
+    "profileImage": "./images/Bram Janssens.png",
+    "status": "active",
+    "hobbies": ["automatisatie", "fietsen"],
+    "role": {
+      "id": 1,
+      "name": "Admin",
+      "canEdit": true,
+      "canDelete": true
+    }
+  },
+  {
+    "id": 108,
+    "name": "Nina Claes",
+    "description": "QA tester met oog voor bugs en kwaliteit.",
+    "age": 27,
+    "isActive": true,
+    "birthDate": "1997-04-25",
+    "profileImage": "./images/Nina Claes.png",
+    "status": "active",
+    "hobbies": ["testen", "boardgames"],
+    "role": {
+      "id": 2,
+      "name": "Editor",
+      "canEdit": true,
+      "canDelete": false
+    }
+  },
+  {
+    "id": 109,
+    "name": "Lucas Van den Broeck",
+    "description": "Junior developer net afgestudeerd.",
+    "age": 23,
+    "isActive": true,
+    "birthDate": "2001-06-03",
+    "profileImage": "./images/Lucas Van Den Broeck.png",
+    "status": "pending",
+    "hobbies": ["leren", "podcasts"],
+    "role": {
+      "id": 3,
+      "name": "User",
+      "canEdit": false,
+      "canDelete": false
+    }
+  },
+  {
+    "id": 110,
+    "name": "Anke De Ridder",
+    "description": "Project manager met ervaring in agile teams.",
+    "age": 41,
+    "isActive": true,
+    "birthDate": "1983-08-19",
+    "profileImage": "./images/Anke De Ridder.png",
+    "status": "active",
+    "hobbies": ["planning", "coaching"],
+    "role": {
+      "id": 2,
+      "name": "Editor",
+      "canEdit": true,
+      "canDelete": false
+    }
+  }
+]
