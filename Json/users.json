@@ -6,7 +6,7 @@
     "age": 28,
     "isActive": true,
     "birthDate": "1996-03-14",
-    "profileImage": "./images/Jan Peeters.png",
+    "profileImage": "https://github.com/CodeMaster123456789/dataset-project-webontwikkeling/blob/main/Json/users.json/images/Jan_Peeters.png",
     "status": "active",
     "hobbies": ["coding", "fotografie", "reizen"],
     "role": {
@@ -23,7 +23,7 @@
     "age": 32,
     "isActive": true,
     "birthDate": "1992-07-22",
-    "profileImage": "./images/Sara Jacobs.png",
+    "profileImage": "https://github.com/CodeMaster123456789/dataset-project-webontwikkeling/blob/main/Json/users.json/images/Sara_Jacobs.png",
     "status": "active",
     "hobbies": ["lezen", "yoga"],
     "role": {
@@ -40,7 +40,7 @@
     "age": 21,
     "isActive": false,
     "birthDate": "2003-01-09",
-    "profileImage": "./images/Tom Vermeulen",
+    "profileImage": "https://github.com/CodeMaster123456789/dataset-project-webontwikkeling/blob/main/Json/users.json/images/Tom_Vermeulen.png",
     "status": "inactive",
     "hobbies": ["gaming", "streaming"],
     "role": {
@@ -57,7 +57,7 @@
     "age": 26,
     "isActive": true,
     "birthDate": "1998-11-30",
-    "profileImage": "./images/Lotte Maes",
+    "profileImage": "https://github.com/CodeMaster123456789/dataset-project-webontwikkeling/blob/main/Json/users.json/images/Lotte_Maes.png",
     "status": "active",
     "hobbies": ["design", "illustratie"],
     "role": {
@@ -74,7 +74,7 @@
     "age": 35,
     "isActive": true,
     "birthDate": "1989-05-18",
-    "profileImage": "./images/Kevin De Smet.png",
+    "profileImage": "https://github.com/CodeMaster123456789/dataset-project-webontwikkeling/blob/main/Json/users.json/images/Kevin_De_Smet.png",
     "status": "active",
     "hobbies": ["hardlopen", "koken"],
     "role": {
@@ -91,7 +91,7 @@
     "age": 29,
     "isActive": false,
     "birthDate": "1995-09-02",
-    "profileImage": "./images/Emma Willems.png",
+    "profileImage": "https://github.com/CodeMaster123456789/dataset-project-webontwikkeling/blob/main/Json/users.json/images/Emma_Willems.png",
     "status": "blocked",
     "hobbies": ["schrijven", "bloggen"],
     "role": {
@@ -108,7 +108,7 @@
     "age": 38,
     "isActive": true,
     "birthDate": "1986-12-11",
-    "profileImage": "./images/Bram Janssens.png",
+    "profileImage": "https://github.com/CodeMaster123456789/dataset-project-webontwikkeling/blob/main/Json/users.json/images/Bram_Janssens.png",
     "status": "active",
     "hobbies": ["automatisatie", "fietsen"],
     "role": {
@@ -125,7 +125,7 @@
     "age": 27,
     "isActive": true,
     "birthDate": "1997-04-25",
-    "profileImage": "./images/Nina Claes.png",
+    "profileImage": "https://github.com/CodeMaster123456789/dataset-project-webontwikkeling/blob/main/Json/users.json/images/Nina_Claes.png",
     "status": "active",
     "hobbies": ["testen", "boardgames"],
     "role": {
@@ -142,7 +142,7 @@
     "age": 23,
     "isActive": true,
     "birthDate": "2001-06-03",
-    "profileImage": "./images/Lucas Van Den Broeck.png",
+    "profileImage": "https://github.com/CodeMaster123456789/dataset-project-webontwikkeling/blob/main/Json/users.json/images/Lucas_Van_Den_Broeck.png",
     "status": "pending",
     "hobbies": ["leren", "podcasts"],
     "role": {
@@ -159,7 +159,7 @@
     "age": 41,
     "isActive": true,
     "birthDate": "1983-08-19",
-    "profileImage": "./images/Anke De Ridder.png",
+    "profileImage": "https://github.com/CodeMaster123456789/dataset-project-webontwikkeling/blob/main/Json/users.json/images/Anke_De_Ridder.png",
     "status": "active",
     "hobbies": ["planning", "coaching"],
     "role": {
